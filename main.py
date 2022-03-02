@@ -15,8 +15,8 @@ if __name__ == "__main__":
     body_value = '''{
         "messages":[
             {
-                "content":"My first message",
-                "destination_number":"+642102869292"
+                "content":"TUTU WAKE UP TUTU WAKE UP TUTU WAKE UP",
+                "destination_number":"+64210547972"
             }
         ]
     }'''
